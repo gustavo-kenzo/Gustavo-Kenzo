@@ -11,9 +11,6 @@
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Gustavo-Kenzo&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
-
 ## 🌐 Socials:         [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-kenzo-almeida-de-castro-529a55232/?trk=opento_sprofile_details) 
 ---
 [![](https://visitcount.itsvg.in/api?id=Gustavo-Kenzo&icon=2&color=1)](https://visitcount.itsvg.in)
