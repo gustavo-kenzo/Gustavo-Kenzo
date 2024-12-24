@@ -1,7 +1,7 @@
 # Bem-vindo(a) ao perfil de Gustavo😁
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Gustavo-Kenzo&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Gustavo-Kenzo&theme=default_repocard&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Kenzo&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
