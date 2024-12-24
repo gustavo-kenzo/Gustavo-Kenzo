@@ -1,4 +1,4 @@
-# Bem-vindo(a) ao perfil de Gustavo Kenzo😁
+# Bem-vindo(a) ao perfil de Gustavo😁
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Gustavo-Kenzo&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
