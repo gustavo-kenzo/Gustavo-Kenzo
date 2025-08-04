@@ -1,18 +1,46 @@
-# Bem-vindo(a) ao perfil de Gustavo😁
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=header"/>
 
-## 📊 GitHub Stats:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7aa2f7&size=35&center=true&vCenter=true&width=1000&lines=HI,+MY+NAME+IS+GUSTAVO+KENZO+ALMEIDA+DE+CASTRO;I+study+systems+development+in+Java;Welcome!+:%29)](https://git.io/typing-svg)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Gustavo-Kenzo&theme=default_repocard&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Kenzo&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">  
+  <img width="49%" height="195px" 
+       src="https://github-readme-stats.vercel.app/api?username=gustavo-kenzo&show_icons=true&count_private=true&hide_border=true&title_color=7aa2f7&icon_color=7aa2f7&text_color=c9d1d9&bg_color=0d1117" 
+       alt="Gustavo Kenzo github stats"/> 
+  <img width="41%" height="195px" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-kenzo&layout=compact&hide_border=true&title_color=7aa2f7&text_color=7aa2f7&bg_color=0d1117" />
+</div>
 
-## 💻 Learning technologies:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gustavo-kenzo&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=7aa2f7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gustavo-kenzo&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
-## 🌐 Socials:         [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-kenzo-almeida-de-castro-529a55232/?trk=opento_sprofile_details) 
----
-[![](https://visitcount.itsvg.in/api?id=Gustavo-Kenzo&icon=2&color=1)](https://visitcount.itsvg.in)
+<div align="center">  
+  <a href="https://www.linkedin.com/in/gustavo-kenzo-almeida-de-castro-529a55232/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div> 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Main skills:
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+### Tools:
+![IntelliJ IDEA](https://img.shields.io/badge/-Intellij%20IDEA-0D1117?style=for-the-badge&logo=intellijidea&logoColor=%23BC265E&labelColor=0D1117)
+![Eclipse](https://img.shields.io/badge/-Eclipse-0D1117?style=for-the-badge&logo=eclipse&logoColor=%2368217A&labelColor=0D1117)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+
+### Other Knowledge:
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+
+### Studying in this moment:
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css&logoColor=%23A259FF&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=footer"/>
