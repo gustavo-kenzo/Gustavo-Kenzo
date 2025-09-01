@@ -42,7 +42,7 @@
 
 <!-- Redes sociais -->
 <div align="center">  
-  <a href="https://www.linkedin.com/in/gustavokenzodecastro" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/gustavokenzo/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div> 
