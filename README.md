@@ -1,16 +1,50 @@
 <!-- Banner adaptável ao tema -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=header">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=151926&height=120&section=header">
     <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=4b69fd&height=120&section=header">
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=header" />
   </picture>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7aa2f7&size=33&center=true&vCenter=true&width=1000&lines=HI,+MY+NAME+IS+GUSTAVO+KENZO+DE+CASTRO;I+study+systems+development+in+Java+at+Oracle+ONE;Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Bitcount+Prop+Single&size=35&letterSpacing=3px&duration=3000&pause=300&color=00E699&center=true&vCenter=true&width=1000&height=50&lines=Hi,+I'm+Gustavo+Kenzo;BACK-END+DEVELOPER)](https://git.io/typing-svg)
 
+<!-- Sobre mim -->
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount+Prop+Single&size=25&letterSpacing=3px&duration=3000&pause=300&color=A855F7&vCenter=true&repeat=false&width=535&height=25&lines=ABOUT+ME)](https://git.io/typing-svg)
+
+Desenvolvedor de software com foco em **`back-end`**. Desenvolvo **`APIs RESTful`** testáveis — cobrindo testes em controllers e queries de banco de dados — utilizando o ecossistema **`Java Spring`**.
+
+
+>Prática na integração com bancos relacionais (MySQL, PostgreSQL) e versionamento de banco com Flyway.
+>
+>Atualmente, estou me aprofundando em tecnologias Cloud (Oracle Cloud Infrastructure) e na construção de aplicações escaláveis seguindo os princípios SOLID. Meu roadmap técnico inclui evoluir os conhecimentos teóricos de conteinerização com Docker e Kubernetes.
+
+##
+
+<!-- Activity Graph -->
+<picture>
+  <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=gustavo-kenzo&bg_color=0d1117&color=A855F7&line=00E699&point=5B21B6&area=true&hide_border=true" media="(prefers-color-scheme: dark)" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavo-kenzo&bg_color=ffffff&color=4b69fd&line=4b69fd&point=4b69fd&area=true&hide_border=true" />
+</picture>
+
+
+<!-- Linguagens e bancos -->
+<br/>
+
+#### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount+Prop+Single&size=25&letterSpacing=3px&duration=3000&pause=300&color=A855F7&vCenter=true&repeat=false&width=535&height=25&lines=HARD+SKILLS)](https://git.io/typing-svg)
+>[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mysql,git,docker&theme=dark)](https://skillicons.dev)
+
+<!-- Ferramentas -->
+#### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount+Prop+Single&size=25&letterSpacing=3px&duration=3000&pause=300&color=00FFA3&vCenter=true&repeat=false&width=535&height=25&lines=TOOLS)](https://git.io/typing-svg)
+>[![My Skills](https://skillicons.dev/icons?i=idea,postman,eclipse,vscode&theme=dark)](https://skillicons.dev)
+
+<!-- Linguagens que conheço pouco -->
+#### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount+Prop+Single&size=25&letterSpacing=3px&duration=3000&pause=300&color=00FFA3&vCenter=true&repeat=false&width=535&height=25&lines=BASE+KNOWLEDGE)](https://git.io/typing-svg)
+>[![My Skills](https://skillicons.dev/icons?i=html,css,javascript&theme=dark)](https://skillicons.dev)
+
+<!-- Tá quebrado -->
 <!-- GitHub Stats adaptável -->
-<div align="center">
+<!--<div align="center">
   <picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=gustavo-kenzo&show_icons=true&count_private=true&hide_border=true&title_color=7aa2f7&icon_color=7aa2f7&text_color=c9d1d9&bg_color=0d1117"
@@ -28,51 +62,25 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-kenzo&layout=compact&hide_border=true&title_color=4b69fd&text_color=4b69fd&bg_color=ffffff"
       alt="Top Langs Light" />
   </picture>
-</div>
+</div>-->
 
-<!-- Activity Graph -->
-<picture>
-  <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=gustavo-kenzo&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=7aa2f7&area=true&hide_border=true" media="(prefers-color-scheme: dark)" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavo-kenzo&bg_color=ffffff&color=4b69fd&line=4b69fd&point=4b69fd&area=true&hide_border=true" />
-</picture>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gustavo-kenzo&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
 <!-- Redes sociais -->
-<div align="center">  
-  <a href="https://www.linkedin.com/in/gustavokenzo/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div> 
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount+Prop+Single&size=25&letterSpacing=3px&duration=3000&pause=300&color=00E699&vCenter=true&repeat=false&width=535&height=25&lines=CONTACT)](https://git.io/typing-svg)
 
-### Main skills:
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00&labelColor=0D1117)
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=0D1117)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)
+<!-- Email -->
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gkenzo.castro@gmail.com)
 
-### Tools:
-![IntelliJ IDEA](https://img.shields.io/badge/-Intellij%20IDEA-0D1117?style=for-the-badge&logo=intellijidea&logoColor=%23BC265E&labelColor=0D1117)
-![Eclipse](https://img.shields.io/badge/-Eclipse-0D1117?style=for-the-badge&logo=eclipse&logoColor=%2368217A&labelColor=0D1117)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)
+<!-- LinkedIn -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavokenzo/)
 
-### Other Knowledge:
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)
+<!-- Site Pessoal -->
+[![Site](https://img.shields.io/badge/Site_Pessoal-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gustavokenzo.vercel.app)
 
-### Studying in this moment:
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00&labelColor=0D1117)
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=0D1117)
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css&logoColor=%23A259FF&labelColor=0D1117)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)
-
-<!-- Footer adaptável ao tema -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=footer">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=151926&height=120&section=footer">
     <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=4b69fd&height=120&section=footer">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=footer" />
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=header" />
   </picture>
 </p>
