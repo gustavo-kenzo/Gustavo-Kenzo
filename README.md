@@ -44,7 +44,7 @@ Desenvolvedor de software com foco em **`back-end`**. Desenvolvo **`APIs RESTful
         srcset="https://skillicons.dev/icons?i=java%2Cspring%2Chibernate%2Cpostgres%2Cmysql%2Cgithub%2Cgit%2Cdocker%2Cpostman%2Chtml%2Ccss%2Cjavascript&theme=dark&perline=6" />
       <source 
         media="(prefers-color-scheme: light)" 
-        srcset="https://skillicons.dev/icons?i=java%2Cspring%2Chibernate%2Cpostgres%2Cmysql%2Cgithub%2Cgit%2Cdocker%2Cpostman%2Chtml%2Ccss%2Cjavascript&theme=dark&perline=6" />
+        srcset="https://skillicons.dev/icons?i=java%2Cspring%2Chibernate%2Cpostgres%2Cmysql%2Cgithub%2Cgit%2Cdocker%2Cpostman%2Chtml%2Ccss%2Cjavascript&theme=light&perline=6" />
       <img 
         src="https://skillicons.dev/icons?i=java%2Cspring%2Chibernate%2Cpostgres%2Cmysql%2Cgithub%2Cgit%2Cdocker%2Cpostman%2Chtml%2Ccss%2Cjavascript&theme=dark&perline=6"/>
     </picture>
