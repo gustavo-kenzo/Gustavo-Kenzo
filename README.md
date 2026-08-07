@@ -8,8 +8,8 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?font=Bitcount+Prop+Single&size=62&letterSpacing=2px&duration=3000&pause=300&color=00E699&center=true&width=1000&height=220&lines=Hi%2C+I'm+Gustavo+Kenzo;BACK-END+DEVELOPER" />
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Bitcount+Prop+Single&size=62&letterSpacing=2px&duration=3000&pause=300&color=2DD4BF&center=true&width=1000&height=220&lines=Hi%2C+I'm+Gustavo+Kenzo;BACK-END+DEVELOPER" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?font=Bitcount+Prop+Single&size=62&letterSpacing=2px&duration=3000&pause=600&color=00E699&center=true&width=1000&height=220&lines=Hi%2C+I'm+Gustavo+Kenzo;BACK-END+DEVELOPER" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Bitcount+Prop+Single&size=62&letterSpacing=2px&duration=3000&pause=600&color=2DD4BF&center=true&width=1000&height=220&lines=Hi%2C+I'm+Gustavo+Kenzo;BACK-END+DEVELOPER" />
 </picture>
 
 
